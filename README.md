@@ -32,9 +32,8 @@ In this repo, you will find empty `index.html` and `style.css` files, as well as
 
 ##### Drop-Up Menu
 
-* Please ignore everything outside the "Dropup" button and the menu above it with its four items ("Action", "Another action", ...). You do not need to make the "Right Drop" button.
 * The button should be the only thing visible at first. The triangle section of the button should have the same background color at first as well. Like so: ![the drop-up menu from Bootstrap 4, unexpanded](./assets/drop-up-unhovered.png)
-* On hovering the "Dropup" button's triangle, the menu with the four items should appear and the triangle should have the grey background you see. Like so: ![the drop-up menu from Bootstrap 4, expanded](./assets/drop-up-hovered.png)
+* On hovering the "Dropup" button's triangle, the menu with the four items should appear and the triangle should have the grey background you see. Please ignore the Right Drop button, or anything outside the borders of the drop-up. Make it look... like so: ![the drop-up menu from Bootstrap 4, expanded](./assets/drop-up-hovered.png)
 * Not pictured: on hovering over any of the menu items, they should have the same background as the hovered triangle.
 
 
