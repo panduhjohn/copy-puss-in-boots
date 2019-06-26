@@ -16,10 +16,9 @@ In this repo, you will find empty `index.html` and `style.css` files, as well as
 
 ##### Alert Ribbon
 
+* Make it look like so: ![the yellow alert ribbon from Bootstrap 4](./assets/alert-ribbon.png)
 * When the X on the right is hovered, the whole ribbon should disappear.
 * It should NOT make the items below it move up when it does so.
-
-![the yellow alert ribbon from Bootstrap 4](./assets/alert-ribbon.png)
 
 
 ##### Progress Bar
@@ -45,5 +44,5 @@ In this repo, you will find empty `index.html` and `style.css` files, as well as
 
 ### Stretch Goals
 
-* DO make the items below the ribbon move up when it disappears. (If you did that already, follow the original specification now instead.)
+* DO make the items below the ribbon move up when it disappears. (If you did it that way initially, follow the original specification now instead.)
 * Make all three work on click instead of hover. It will take some real hackery to make this work without JavaScript. (You should make this work without JavaScript.)
