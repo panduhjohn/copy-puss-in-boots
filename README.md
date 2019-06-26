@@ -16,30 +16,26 @@ In this repo, you will find empty `index.html` and `style.css` files, as well as
 
 ##### Alert Ribbon
 
-* Make it look like so: ![the yellow alert ribbon from Bootstrap 4](./assets/alert-ribbon.png)
+* This is what it should look like: ![the yellow alert ribbon from Bootstrap 4](./assets/alert-ribbon.png)
 * When the X on the right is hovered, the whole ribbon should disappear.
 * It should NOT make the items below it move up when it does so.
 
 
 ##### Progress Bar
 
+* This is what it should look like: ![the  blue progress bar from Bootstrap 4](./assets/progress-bar.png)
 * The progress bar (the blue part) should begin taking up 20% of the meter.
 * When the _meter_ is hovered, the progress bar should grow to 80%.
 * When the meter is unhovered, the progress bar should shrink back to 20%.
 * The meter should fill and unfill smoothly, not abruptly.
 
-![the  blue progress bar from Bootstrap 4](./assets/progress-bar.png)
-
 
 ##### Drop-Up Menu
 
 * Please ignore everything outside the "Dropup" button and the menu above it with its four items ("Action", "Another action", ...). You do not need to make the "Right Drop" button.
-* The button should be the only thing visible at first. The triangle section of the button should have the same background color at first as well.
-* On hovering the "Dropup" button's triangle, the menu with the four items should appear and the triangle should have the grey background you see.
+* The button should be the only thing visible at first. The triangle section of the button should have the same background color at first as well. Like so: ![the drop-up menu from Bootstrap 4, unexpanded](./assets/drop-up-unhovered.png)
+* On hovering the "Dropup" button's triangle, the menu with the four items should appear and the triangle should have the grey background you see. Like so: ![the drop-up menu from Bootstrap 4, expanded](./assets/drop-up-hovered.png)
 * Not pictured: on hovering over any of the menu items, they should have the same background as the hovered triangle.
-
-![the drop-up menu from Bootstrap 4, unexpanded](./assets/drop-up-unhovered.png)
-![the drop-up menu from Bootstrap 4, expanded](./assets/drop-up-hovered.png)
 
 
 ### Stretch Goals
